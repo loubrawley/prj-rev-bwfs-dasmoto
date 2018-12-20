@@ -1,0 +1,27 @@
+body {
+  font-family: Helvetica;
+  background-color: cornsilk;
+}
+
+header {
+
+}
+
+h1 {
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url(./images/pattern.jpeg);
+}
+
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
